@@ -219,19 +219,19 @@ a{
     position: relative;
     min-height: 300px;
     background: #080909;
-    background-image:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(/photos/book.jpg);
+    background-image:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(book.jpg);
 }
 .examples-area:hover{
     box-shadow: 0 0 10px #888;
 }
 .examples-area:nth-child(2){
-    background-image:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(/photos/card.jpg);background-size: cover;
+    background-image:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(card.jpg);background-size: cover;
 }
 .examples-area:nth-child(3){
-    background-image:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(/photos/card2.jpg);background-size: cover;
+    background-image:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(card2.jpg);background-size: cover;
 }
 .examples-area:nth-child(4){
-    background-image:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(/photos/page.jpg);background-size: cover;
+    background-image:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url(page.jpg);background-size: cover;
 }
 .cards-text{
     position: absolute;
